@@ -1,20 +1,20 @@
-# Basic Info
+# Personal Information
 name: 孙睿
 nickname: 松鼠
 title: Product Manager
 email: songshu_mmm_7@163.com
 phone: 13530158905
-location: 广东省 深圳市 南山/福田
+location: 广东省 深圳市
 website:
 birth: 2001.08.14
 
-# 自我介绍
+# Introduction
 intro: |
   3年旅游产品经理经验，擅长产品全链路设计、用户运营与数据驱动迭代。
   具备户外领队、摄影、新媒体运营、数据分析等复合能力，
   专注产品体验与用户价值，目标成为优秀的互联网产品经理。
 
-# 技能标签
+# Skills
 skills:
   - name: 产品设计
     level: 95%
@@ -29,18 +29,17 @@ skills:
   - name: 团队管理
     level: 90%
 
-# 工作经历
+# Work Experience
 experiences:
-  - title: 户外徒步旅行 - 产品经理
+  - title: 产品经理
     company: 徒步中国-徒步帮国际旅行社
     period: 2023.05 - 至今
     details:
       - 负责旅游产品链路搭建与全周期运营，覆盖云南、新疆、四川、西藏等目的地
       - 制定年度产品计划，对接供应商资源，审核资质与产品质量
       - 市场需求分析、竞品研究，精准匹配客群画像
-      - 产品迭代优化、卖点提炼，PS设计上架素材
+      - 产品迭代优化、卖点提炼，设计上架素材
       - 搭建私域+公域运营体系，推进销售目标达成
-      - 数据分析驱动产品优化，持续提升用户体验与转化
 
   - title: 户外领队兼团队摄影
     company: 徒步中国-徒步帮国际旅行社
@@ -58,23 +57,22 @@ experiences:
       - 新媒体多平台账号运营，每日产出30条内容引流
       - 研究头部账号打法，提升账号影响力
 
-# 校园经历
+# Education
 educations:
-  - title: 数据科学与大数据技术 | 本科
+  - title: 数据科学与大数据技术 本科
     school: 北京理工大学珠海学院
     period: 2019.09 - 2023.06
     details:
-      - 综合成绩年级前30%
-      - 主修：Python、SQL、R语言、数据挖掘、机器学习、深度学习、数据可视化等
+      - 主修：Python、SQL、数据挖掘、机器学习、数据可视化等
 
-  - title: 安保部部长 / 会长
+  - title: 安保部部长 | 会长
     school: YUE户外运动协会
     period: 2019.10 - 2022.10
     details:
       - 策划组织社团活动，带队户外徒步/团建30+次
-      - 协调校际交流，具备优秀团队管理与应急处理能力
+      - 协调校际交流，具备优秀团队管理能力
 
-# 证书
+# Certificates
 certificates:
   - name: 驾驶证C2
   - name: 普通话二甲
@@ -83,22 +81,22 @@ certificates:
   - name: 中登协中级户外指导员
   - name: 深圳登山协会领队
 
-# 奖项
+# Awards
 awards:
   - name: 优秀学生三等奖学金
   - name: 百米定向党史知识竞赛校级一等奖
-  - name: 全球开放数据创新应用大赛·珠海省级三等奖
+  - name: 全球开放数据创新应用大赛省级三等奖
   - name: 全国大学生统计建模大赛省级三等奖
 
-# 个人优势
+# Personal Strengths
 advantages:
-  - 熟练使用PS、Lightroom，50+项产品平面设计经验
+  - 熟练使用PS、Lightroom，具备50+项产品平面设计经验
   - 公众号爆款2-3万阅读，小红书单篇1万+，多平台运营能力强
   - 3年旅游产品设计经验，私域上万用户运营经验
   - 中登协持证领队，5年带队经验，擅长全年龄段客群运营
   - 数据思维突出，擅长用数据制定计划与迭代产品
 
-# 自我评价
+# Self Evaluation
 selfEvaluation: |
   具备独立项目策划与产品落地能力，沟通与逻辑思维清晰。
   拥有文字、设计、摄影、户外、数据、运营复合背景，
